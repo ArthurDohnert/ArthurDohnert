@@ -14,9 +14,16 @@ I build Python pipelines that turn complex, high-dimensional data into something
 
 ### 🛠️ Tech & tools
 
-`Python` · `Pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `C/C++` · `R` · `SQL` · `Git` · `LaTeX`
+`Python` · `Pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `C/C++` · `R` · `SQL` · `Git` · `LaTeX` · `Linux`
 
 **Methods:** Machine Learning · Dimensionality Reduction · Applied Linear Algebra · Statistics
+
+I work day-to-day on **Linux (Ubuntu)** and can take results all the way to delivery — including building interactive, web-based visualizations to communicate data and findings.
+
+### 📚 Relevant coursework
+
+**Math & Stats:** Probability & Statistics · Linear Algebra · Differential Equations · Applied Mathematics · Calculus & Analytic Geometry I–II
+**Computing:** Data Structures · Data Classification & Retrieval · Software Engineering · Performance Evaluation
 
 ### 🎓 A bit more
 
@@ -44,6 +51,12 @@ Construo pipelines em Python que transformam dados complexos e de alta dimension
 - **Ciência de dados & ML** — métodos quantitativos e de machine learning para extrair significado de dados difíceis de interpretar diretamente.
 - **Microeletrônica (CIExpert)** — projeto de circuitos integrados analógicos e de sinais mistos.
 
-**Ferramentas:** `Python` · `Pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `C/C++` · `R` · `SQL` · `Git` · `LaTeX`
+**Ferramentas:** `Python` · `Pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `C/C++` · `R` · `SQL` · `Git` · `LaTeX` · `Linux`
+
+Trabalho no dia a dia em **Linux (Ubuntu)** e consigo levar os resultados até a entrega — incluindo visualizações interativas em web para comunicar dados e descobertas.
+
+**Disciplinas relevantes:**
+- **Matemática & Estatística:** Probabilidade e Estatística · Álgebra Linear · Equações Diferenciais · Matemática Aplicada · Cálculo e Geometria Analítica I–II
+- **Computação:** Estruturas de Dados · Classificação e Pesquisa de Dados · Engenharia de Software · Avaliação de Desempenho
 
 </details>
